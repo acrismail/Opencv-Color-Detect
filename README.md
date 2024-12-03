@@ -67,8 +67,3 @@ res = cv2.bitwise_and(img, img, mask=msk)
 if k == 27 or k == ord('q'):
     break
 
-
-DEMO
-
-![Color_detection](Ekran görüntüsü 2024-12-03 115821.png)
-
