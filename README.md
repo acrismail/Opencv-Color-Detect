@@ -70,5 +70,5 @@ if k == 27 or k == ord('q'):
 
 DEMO
 
-![Ekran görüntüsü 2024-12-03 115821](https://github.com/user-attachments/assets/adf437c8-943f-48f8-a479-0e47728520bf)
+![Color_detection](https://github.com/user-attachments/assets/adf437c8-943f-48f8-a479-0e47728520bf)
 
